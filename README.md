@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!--### Hi there 👋-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polmade&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 <!--
 **polmade/polmade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
